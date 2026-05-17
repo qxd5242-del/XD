@@ -68,6 +68,23 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
 	![图43](picture/p43.jpg)
 	![图44](picture/p44.jpg)
 	![图45](picture/p45.jpg)
+	![图46](picture/p46.jpg)
+	![图47](picture/p47.jpg)
+	![图48](picture/p48.jpg)
+	![图49](picture/p49.jpg)
+	![图50](picture/p50.jpg)
+	![图51](picture/p51.jpg)
+	![图52](picture/p52.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
