@@ -77,13 +77,14 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
 	![图52](picture/p52.jpg)
   
 ## 应用层  
-
-
-
-
-
-
-
+- DNS：
+	![图53](picture/p53.jpg)
+	![图54](picture/p54.jpg)
+	![图55](picture/p55.jpg)
+	![图56](picture/p56.jpg)
+	![图57](picture/p57.jpg)
+	![图58](picture/p58.jpg)
+	![图59](picture/p59.jpg)
 
 
 
