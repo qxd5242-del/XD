@@ -86,10 +86,12 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
 	![图58](picture/p58.jpg)
 	![图59](picture/p59.jpg)
 
+- 文件传输协议（FTP）：
+	![图60](picture/p60.jpg)
+	![图61](picture/p61.jpg)
 
-
-
-
+- 超文本传输协议（HTTP）:
+- 
 
 
 
