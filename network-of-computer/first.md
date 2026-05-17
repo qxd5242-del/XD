@@ -33,7 +33,7 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
     ![图12](picture/P12.jpg)
     ![图13](picture/P13.jpg)
 	![图14](picture/P14.jpg)
-- 边界网关协议：
+- 边界网关协议(BGP)：
  	![图15](picture/p15.jpg)
 	![图16](picture/p16.jpg)
 	![图17](picture/p17.jpg)
