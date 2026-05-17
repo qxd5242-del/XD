@@ -30,8 +30,8 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
     ![图10](picture/p10.jpg)
     ![图11](picture/p11.jpg)
 - 开发最短路径优先协议（OSPF）:
-    ![图12](picture/p12.jpg)
-    ![图13](picture/p13.jpg)
-	![图14](picture/p14.jpg)
+    ![图12](picture/P12.jpg)
+    ![图13](picture/P13.jpg)
+	![图14](picture/P14.jpg)
   
 	 
