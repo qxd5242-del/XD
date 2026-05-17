@@ -33,5 +33,10 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
     ![图12](picture/P12.jpg)
     ![图13](picture/P13.jpg)
 	![图14](picture/P14.jpg)
-  
+- 边界网关协议：
+ 	![图15](picture/P15.jpg)
+	![图16](picture/P16.jpg)
+	![图17](picture/P17.jpg)
+	![图18](picture/P18.jpg)
+	![图19](picture/P19.jpg)
 	 
