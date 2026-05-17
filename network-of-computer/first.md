@@ -91,7 +91,7 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
 	![图61](picture/p61.jpg)
 
 - 超文本传输协议（HTTP）:
-- 
-
-
+	![图62](picture/p62.jpg)
+	![图63](picture/p63.jpg)
+	![图64](picture/p64.jpg)
 
