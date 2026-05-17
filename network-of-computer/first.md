@@ -15,30 +15,37 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
     - NCP：为网络层协议建立和配置逻辑链接（例如：网络层使用IP协议，则NCP要负责申请一个IP地址，每个不同的网络层协议都要有一个相应的NCP来配置）
     ![图1](picture/p1.jpg)
     ![图2](picture/p2.jpg)
+
 ## 网络层  
 - 地址解析协议（ARP协议）：
     ![图3](picture/p3.jpg)
-    ![图4](picture/p4.jpg)   
+    ![图4](picture/p4.jpg)
+   
 - 动态主机配置协议（DHCP）：
     ![图5](picture/p5.jpg)
     ![图6](picture/p6.jpg)
+  
 - 网际控制报文协议（ICMP）：
     ![图7](picture/p7.jpg)
+  
 - 路由信息协议（RIP）：
     ![图8](picture/p8.jpg)
     ![图9](picture/p9.jpg)
     ![图10](picture/p10.jpg)
     ![图11](picture/p11.jpg)
+  
 - 开发最短路径优先协议（OSPF）:
     ![图12](picture/P12.jpg)
     ![图13](picture/P13.jpg)
 	![图14](picture/P14.jpg)
+
 - 边界网关协议(BGP)：
  	![图15](picture/p15.jpg)
 	![图16](picture/p16.jpg)
 	![图17](picture/p17.jpg)
 	![图18](picture/p18.jpg)
 	![图19](picture/p19.jpg)
+
 ## 传输层
 - UDP协议：
 	![图20](picture/p20.jpg)
@@ -46,6 +53,7 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
 	![图22](picture/p22.jpg)
 	![图23](picture/p23.jpg)
 	![图24](picture/p24.jpg)
+
 - ### **TCP协议:**
 	![图25](picture/p25.jpg)
 	![图26](picture/p26.jpg)
