@@ -39,4 +39,20 @@ OSI参考模型：物理层，数据链路层，网络层，运输层，会话�
 	![图17](picture/p17.jpg)
 	![图18](picture/p18.jpg)
 	![图19](picture/p19.jpg)
-	 
+- UDP数据报：
+	![图20](picture/P20.jpg)
+	![图21](picture/P21.jpg)
+	![图22](picture/P22.jpg)
+	![图23](picture/P23.jpg)
+	![图24](picture/P24.jpg)
+
+
+
+
+
+
+
+
+
+
+
